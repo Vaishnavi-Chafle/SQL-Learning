@@ -1,0 +1,19 @@
+-- FIRST_VALUE / LAST_VALUE / NTH_VALUE
+USE campusx;
+
+SELECT *,
+FIRST_VALUE(name) OVER(ORDER BY marks DESC) AS "topper"
+FROM campusx.marks;
+
+SELECT *,
+LAST_VALUE(name) OVER(PARTITION BY branch ORDER BY marks DESC
+                     ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING) AS "last_topper"
+FROM campusx.marks;
+
+SELECT *,
+NTH_VALUE(name,3) OVER(PARTITION BY branch ORDER BY marks DESC
+					   ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING) AS "highest_marks"
+FROM marks
+
+
+
