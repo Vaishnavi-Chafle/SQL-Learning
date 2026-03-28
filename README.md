@@ -1,4 +1,4 @@
-SQL Learning from CampusX 🚀
+SQL Learning from [CampusX](https://www.youtube.com/@campusx-official) 🚀
 
 This repository contains my structured SQL learning journey from CampusX, including practice queries and real-world use cases.
 
@@ -20,6 +20,14 @@ This repository contains my structured SQL learning journey from CampusX, includ
 
 * MySQL
 * SQL
+
+---
+
+## 🎓 Learning Source
+
+This SQL learning is based on the course by CampusX.
+
+👉 [CampusX SQL Course](https://www.youtube.com/@campusx-official)
 
 ---
 
