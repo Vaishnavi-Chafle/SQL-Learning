@@ -70,7 +70,14 @@ Datasets are included inside respective folders.
 --- 
 
 **06_window_function:**
-* 👉 [Smartphones Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_finction/smartphone_final.csv)
+
+* 👉 [marks Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/01_window_functions/marks.csv)
+* 👉 [Orders Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/01_window_functions/orders.csv)
+* 👉 [IPL Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/IPL.csv)
+* 👉 [Food Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/food.csv)
+* 👉 [Order_detail dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/order_details.csv)
+* 👉 [Orders Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/orders.csv)
+* 👉 [Restaurants Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/restaurants.csv)
 
 ---
 
