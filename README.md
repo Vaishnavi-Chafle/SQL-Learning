@@ -83,7 +83,7 @@ Datasets are included inside respective folders.
 
 ##08_📊_Entity_Relationship_Diagram
 
-![ER Diagram](08_Entity_Relationship_Diagram/er_diagram.png)
+![ER Diagram]([08_Entity_Relationship_Diagram/er_diagram.png](https://github.com/Vaishnavi-Chafle/SQL-Learning/tree/main/08_Entity_Relationsip_Diagram))
 
 ---
 
