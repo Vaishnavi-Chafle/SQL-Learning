@@ -69,7 +69,7 @@ Datasets are included inside respective folders.
 
 --- 
 
-**06_window_function:**
+**07_window_function:**
 
 * 👉 [marks Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/01_window_functions/marks.csv)
 * 👉 [Orders Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/01_window_functions/orders.csv)
@@ -78,6 +78,12 @@ Datasets are included inside respective folders.
 * 👉 [Order_detail dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/order_details.csv)
 * 👉 [Orders Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/orders.csv)
 * 👉 [Restaurants Dataset](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/07_window_function/02_window_functions/restaurants.csv)
+
+---
+
+##08_📊_Entity_Relationship_Diagram
+
+![ER Diagram](08_Entity_Relationship_Diagram/er_diagram.png)
 
 ---
 
