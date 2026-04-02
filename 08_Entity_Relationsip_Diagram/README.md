@@ -8,7 +8,7 @@ An ER diagram represents the structure of a database, showing entities, attribut
 
 ## 📷 ER Diagram
 
-![ER Diagram]([er_diagram.png](https://github.com/Vaishnavi-Chafle/SQL-Learning/tree/main/08_Entity_Relationsip_Diagram))
+![ER Diagram](https://github.com/Vaishnavi-Chafle/SQL-Learning/blob/main/08_Entity_Relationsip_Diagram/Screenshot%202026-04-02%20084353.png)
 
 ## 🛠️ Tools Used
 - MySQL Workbench (.mwb file)
